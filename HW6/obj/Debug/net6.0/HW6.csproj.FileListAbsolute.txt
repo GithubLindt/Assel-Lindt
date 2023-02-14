@@ -1,0 +1,15 @@
+/Users/yeabildin/Desktop/Examples/HW6/obj/Debug/net6.0/HW6.csproj.AssemblyReference.cache
+/Users/yeabildin/Desktop/Examples/HW6/obj/Debug/net6.0/HW6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeabildin/Desktop/Examples/HW6/obj/Debug/net6.0/HW6.AssemblyInfoInputs.cache
+/Users/yeabildin/Desktop/Examples/HW6/obj/Debug/net6.0/HW6.AssemblyInfo.cs
+/Users/yeabildin/Desktop/Examples/HW6/obj/Debug/net6.0/HW6.csproj.CoreCompileInputs.cache
+/Users/yeabildin/Desktop/Examples/HW6/bin/Debug/net6.0/HW6
+/Users/yeabildin/Desktop/Examples/HW6/bin/Debug/net6.0/HW6.deps.json
+/Users/yeabildin/Desktop/Examples/HW6/bin/Debug/net6.0/HW6.runtimeconfig.json
+/Users/yeabildin/Desktop/Examples/HW6/bin/Debug/net6.0/HW6.dll
+/Users/yeabildin/Desktop/Examples/HW6/bin/Debug/net6.0/HW6.pdb
+/Users/yeabildin/Desktop/Examples/HW6/obj/Debug/net6.0/HW6.dll
+/Users/yeabildin/Desktop/Examples/HW6/obj/Debug/net6.0/refint/HW6.dll
+/Users/yeabildin/Desktop/Examples/HW6/obj/Debug/net6.0/HW6.pdb
+/Users/yeabildin/Desktop/Examples/HW6/obj/Debug/net6.0/HW6.genruntimeconfig.cache
+/Users/yeabildin/Desktop/Examples/HW6/obj/Debug/net6.0/ref/HW6.dll
