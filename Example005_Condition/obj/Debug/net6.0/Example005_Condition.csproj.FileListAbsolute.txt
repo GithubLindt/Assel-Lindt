@@ -1,0 +1,15 @@
+/Users/yeabildin/Desktop/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.csproj.AssemblyReference.cache
+/Users/yeabildin/Desktop/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeabildin/Desktop/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.AssemblyInfoInputs.cache
+/Users/yeabildin/Desktop/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.AssemblyInfo.cs
+/Users/yeabildin/Desktop/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.csproj.CoreCompileInputs.cache
+/Users/yeabildin/Desktop/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition
+/Users/yeabildin/Desktop/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition.deps.json
+/Users/yeabildin/Desktop/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition.runtimeconfig.json
+/Users/yeabildin/Desktop/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition.dll
+/Users/yeabildin/Desktop/Examples/Example005_Condition/bin/Debug/net6.0/Example005_Condition.pdb
+/Users/yeabildin/Desktop/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.dll
+/Users/yeabildin/Desktop/Examples/Example005_Condition/obj/Debug/net6.0/refint/Example005_Condition.dll
+/Users/yeabildin/Desktop/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.pdb
+/Users/yeabildin/Desktop/Examples/Example005_Condition/obj/Debug/net6.0/Example005_Condition.genruntimeconfig.cache
+/Users/yeabildin/Desktop/Examples/Example005_Condition/obj/Debug/net6.0/ref/Example005_Condition.dll
