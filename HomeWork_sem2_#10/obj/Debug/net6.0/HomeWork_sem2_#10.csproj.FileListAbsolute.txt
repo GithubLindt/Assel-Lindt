@@ -1,0 +1,15 @@
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/bin/Debug/net6.0/HomeWork_sem2_#10
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/bin/Debug/net6.0/HomeWork_sem2_#10.deps.json
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/bin/Debug/net6.0/HomeWork_sem2_#10.runtimeconfig.json
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/bin/Debug/net6.0/HomeWork_sem2_#10.dll
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/bin/Debug/net6.0/HomeWork_sem2_#10.pdb
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/obj/Debug/net6.0/HomeWork_sem2_#10.csproj.AssemblyReference.cache
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/obj/Debug/net6.0/HomeWork_sem2_#10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/obj/Debug/net6.0/HomeWork_sem2_#10.AssemblyInfoInputs.cache
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/obj/Debug/net6.0/HomeWork_sem2_#10.AssemblyInfo.cs
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/obj/Debug/net6.0/HomeWork_sem2_#10.csproj.CoreCompileInputs.cache
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/obj/Debug/net6.0/HomeWork_sem2_#10.dll
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/obj/Debug/net6.0/refint/HomeWork_sem2_#10.dll
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/obj/Debug/net6.0/HomeWork_sem2_#10.pdb
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/obj/Debug/net6.0/HomeWork_sem2_#10.genruntimeconfig.cache
+/Users/yeabildin/Desktop/Examples/HomeWork_sem2_#10/obj/Debug/net6.0/ref/HomeWork_sem2_#10.dll
