@@ -1,0 +1,15 @@
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/obj/Debug/net6.0/HomeWork_sem4_#27.csproj.AssemblyReference.cache
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/obj/Debug/net6.0/HomeWork_sem4_#27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/obj/Debug/net6.0/HomeWork_sem4_#27.AssemblyInfoInputs.cache
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/obj/Debug/net6.0/HomeWork_sem4_#27.AssemblyInfo.cs
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/obj/Debug/net6.0/HomeWork_sem4_#27.csproj.CoreCompileInputs.cache
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/bin/Debug/net6.0/HomeWork_sem4_#27
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/bin/Debug/net6.0/HomeWork_sem4_#27.deps.json
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/bin/Debug/net6.0/HomeWork_sem4_#27.runtimeconfig.json
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/bin/Debug/net6.0/HomeWork_sem4_#27.dll
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/bin/Debug/net6.0/HomeWork_sem4_#27.pdb
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/obj/Debug/net6.0/HomeWork_sem4_#27.dll
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/obj/Debug/net6.0/refint/HomeWork_sem4_#27.dll
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/obj/Debug/net6.0/HomeWork_sem4_#27.pdb
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/obj/Debug/net6.0/HomeWork_sem4_#27.genruntimeconfig.cache
+/Users/yeabildin/Desktop/Examples/HomeWork_sem4_#27/obj/Debug/net6.0/ref/HomeWork_sem4_#27.dll
