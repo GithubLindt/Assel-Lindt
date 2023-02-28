@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yeabildin/Desktop/Examples/HomeWork_Sem5_#34/HomeWork_Sem5_#34.csproj",
+      "projectUniqueName": "/Users/yeabildin/Desktop/Examples/HomeWork_Sem5_#34,36,38/HomeWork_Sem5_#34.csproj",
       "projectName": "HomeWork_Sem5_#34",
-      "projectPath": "/Users/yeabildin/Desktop/Examples/HomeWork_Sem5_#34/HomeWork_Sem5_#34.csproj",
+      "projectPath": "/Users/yeabildin/Desktop/Examples/HomeWork_Sem5_#34,36,38/HomeWork_Sem5_#34.csproj",
       "packagesPath": "/Users/yeabildin/.nuget/packages/",
-      "outputPath": "/Users/yeabildin/Desktop/Examples/HomeWork_Sem5_#34/obj/",
+      "outputPath": "/Users/yeabildin/Desktop/Examples/HomeWork_Sem5_#34,36,38/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yeabildin/.nuget/NuGet/NuGet.Config"
