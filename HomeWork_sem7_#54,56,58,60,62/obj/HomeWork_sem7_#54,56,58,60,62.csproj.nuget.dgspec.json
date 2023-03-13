@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yeabildin/Desktop/Examples/HomeWork_sem7_#47,50,52/HomeWork_sem7_#47, 50, 52.csproj": {}
+    "/Users/yeabildin/Desktop/Examples/HomeWork_sem7_#54,56,58,60,62/HomeWork_sem7_#54,56,58,60,62.csproj": {}
   },
   "projects": {
-    "/Users/yeabildin/Desktop/Examples/HomeWork_sem7_#47,50,52/HomeWork_sem7_#47, 50, 52.csproj": {
+    "/Users/yeabildin/Desktop/Examples/HomeWork_sem7_#54,56,58,60,62/HomeWork_sem7_#54,56,58,60,62.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yeabildin/Desktop/Examples/HomeWork_sem7_#47,50,52/HomeWork_sem7_#47, 50, 52.csproj",
-        "projectName": "HomeWork_sem7_#47, 50, 52",
-        "projectPath": "/Users/yeabildin/Desktop/Examples/HomeWork_sem7_#47,50,52/HomeWork_sem7_#47, 50, 52.csproj",
+        "projectUniqueName": "/Users/yeabildin/Desktop/Examples/HomeWork_sem7_#54,56,58,60,62/HomeWork_sem7_#54,56,58,60,62.csproj",
+        "projectName": "HomeWork_sem7_#54,56,58,60,62",
+        "projectPath": "/Users/yeabildin/Desktop/Examples/HomeWork_sem7_#54,56,58,60,62/HomeWork_sem7_#54,56,58,60,62.csproj",
         "packagesPath": "/Users/yeabildin/.nuget/packages/",
-        "outputPath": "/Users/yeabildin/Desktop/Examples/HomeWork_sem7_#47,50,52/obj/",
+        "outputPath": "/Users/yeabildin/Desktop/Examples/HomeWork_sem7_#54,56,58,60,62/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yeabildin/.nuget/NuGet/NuGet.Config"

@@ -28,53 +28,53 @@
 // Задача 50. Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, 
 // и возвращает значение этого элемента или же указание, что такого элемента нет.
 
-// using System;
-// using static System.Console;
+using System;
+using static System.Console;
 
-// Clear();
+Clear();
 
-// WriteLine("введите номер строки");
-// int m = Convert.ToInt32(ReadLine());
-// WriteLine("введите номер столбца");
-// int n = Convert.ToInt32(ReadLine());
-// int [,] array = new int [10,10];
-// FillArrayRandomNumbers(array);
+WriteLine("введите номер строки");
+int m = Convert.ToInt32(ReadLine());
+WriteLine("введите номер столбца");
+int n = Convert.ToInt32(ReadLine());
+int [,] array = new int [10,10];
+FillArrayRandomNumbers(array);
 
-// if (m > array.GetLength(0) || n > array.GetLength(1))
-// {
-//     WriteLine("такого элемента нет");
-// }
-// else
-// {
-//     WriteLine($"значение элемента {m} строки и {n} столбца равно {array[m-1,n-1]}");
-// }
+if (m > array.GetLength(0) || n > array.GetLength(1))
+{
+    WriteLine("такого элемента нет");
+}
+else
+{
+    WriteLine($"значение элемента {m} строки и {n} столбца равно {array[m-1,n-1]}");
+}
 
-// PrintArray(array);
+PrintArray(array);
 
-// void FillArrayRandomNumbers(int[,] array)
-// {
-//     for (int i = 0; i < array.GetLength(0); i++)
-//         {        
-//             for (int j = 0; j < array.GetLength(1); j++)
-//             {
-//                 array [i,j] = new Random().Next(-100, 100)/10;
-//             }   
-//         }
-// }
+void FillArrayRandomNumbers(int[,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+        {        
+            for (int j = 0; j < array.GetLength(1); j++)
+            {
+                array [i,j] = new Random().Next(-100, 100)/10;
+            }   
+        }
+}
 
-// void PrintArray(int[,] array)
-// {
-//     for (int i = 0; i < array.GetLength(0); i++)
-//     {
-//         Write("[ ");
-//         for (int j = 0; j < array.GetLength(1); j++)
-//         {
-//             Write(array[i,j] + " ");
-//         }   
-//         Write("]");
-//         WriteLine(""); 
-//     }
-// }
+void PrintArray(int[,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        Write("[ ");
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            Write(array[i,j] + " ");
+        }   
+        Write("]");
+        WriteLine(""); 
+    }
+}
 
 // Задача 52. Задайте двумерный массив из целых чисел. 
 // Найдите среднее арифметическое элементов в каждом столбце.

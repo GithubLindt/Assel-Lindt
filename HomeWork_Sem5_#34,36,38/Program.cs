@@ -1,57 +1,57 @@
-﻿// Задача 34: Задайте массив заполненный случайными положительными трёхзначными числами.
-//Напишите программу, которая покажет количество чётных чисел в массиве.
+﻿// // Задача 34: Задайте массив заполненный случайными положительными трёхзначными числами.
+// //Напишите программу, которая покажет количество чётных чисел в массиве.
 
-int[] startArray = GetArray(5, 100, 1000);
-Console.WriteLine(string.Join(", ", startArray));
-Console.WriteLine($"количество четных чисел в отрезке от 100 до 1000 = {GetCountElements(startArray, 100, 1000)}");
+// int[] startArray = GetArray(5, 100, 1000);
+// Console.WriteLine(string.Join(", ", startArray));
+// Console.WriteLine($"количество четных чисел в отрезке от 100 до 1000 = {GetCountElements(startArray, 100, 1000)}");
 
-int[] GetArray (int size, int minValue, int maxValue)
-{
-    int[] res = new int[size];
-    for (int i = 0; i < size; i++)
-    {
-        res[i] = new Random().Next(minValue, maxValue + 1);
-    }
-    return res;
-}
+// int[] GetArray (int size, int minValue, int maxValue)
+// {
+//     int[] res = new int[size];
+//     for (int i = 0; i < size; i++)
+//     {
+//         res[i] = new Random().Next(minValue, maxValue + 1);
+//     }
+//     return res;
+// }
 
-int GetCountElements(int[] array, int leftRange, int rightRange)
-{
-    int count = 0;
-    foreach(int item in array)
-    {
-        if (item % 2 == 0) count++;
-        // if (item <= leftRange && item >= rightRange) count++;
-    }
-    return count;
-}
+// int GetCountElements(int[] array, int leftRange, int rightRange)
+// {
+//     int count = 0;
+//     foreach(int item in array)
+//     {
+//         if (item % 2 == 0) count++;
+//         // if (item <= leftRange && item >= rightRange) count++;
+//     }
+//     return count;
+// }
 
-// Задача 36: Задайте одномерный массив, заполненный случайными числами.
-//Найдите сумму элементов, стоящих на нечётных позициях.
+// // Задача 36: Задайте одномерный массив, заполненный случайными числами.
+// //Найдите сумму элементов, стоящих на нечётных позициях.
 
-int[] startArray = GetArray(7, -100, 100);
-Console.WriteLine(string.Join(", ", startArray));
+// int[] startArray = GetArray(7, -100, 100);
+// Console.WriteLine(string.Join(", ", startArray));
 
-int[] GetArray (int size, int minValue, int maxValue)
-{
-    int[] res = new int[size];
-    for (int i = 0; i < size; i++)
-    {
-        res[i] = new Random().Next(minValue, maxValue + 1);
-    }
-    return res;
-}
+// int[] GetArray (int size, int minValue, int maxValue)
+// {
+//     int[] res = new int[size];
+//     for (int i = 0; i < size; i++)
+//     {
+//         res[i] = new Random().Next(minValue, maxValue + 1);
+//     }
+//     return res;
+// }
 
-int Sum = 0;
-int i = 1;
-int size = startArray.Length;
+// int Sum = 0;
+// int i = 1;
+// int size = startArray.Length;
 
-for (i = 1; i < startArray.Length; i += 2)
-{
-    Sum = Sum + startArray[i];
-}
+// for (i = 1; i < startArray.Length; i += 2)
+// {
+//     Sum = Sum + startArray[i];
+// }
 
-Console.WriteLine(Sum);
+// Console.WriteLine(Sum);
 
 // Задача 38: Задайте массив вещественных чисел. 
 // Найдите разницу между максимальным и минимальным элементов массива.
