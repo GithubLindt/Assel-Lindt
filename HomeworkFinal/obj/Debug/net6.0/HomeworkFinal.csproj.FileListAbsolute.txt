@@ -1,0 +1,15 @@
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/bin/Debug/net6.0/HomeworkFinal
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/bin/Debug/net6.0/HomeworkFinal.deps.json
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/bin/Debug/net6.0/HomeworkFinal.runtimeconfig.json
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/bin/Debug/net6.0/HomeworkFinal.dll
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/bin/Debug/net6.0/HomeworkFinal.pdb
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/obj/Debug/net6.0/HomeworkFinal.csproj.AssemblyReference.cache
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/obj/Debug/net6.0/HomeworkFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/obj/Debug/net6.0/HomeworkFinal.AssemblyInfoInputs.cache
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/obj/Debug/net6.0/HomeworkFinal.AssemblyInfo.cs
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/obj/Debug/net6.0/HomeworkFinal.csproj.CoreCompileInputs.cache
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/obj/Debug/net6.0/HomeworkFinal.dll
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/obj/Debug/net6.0/refint/HomeworkFinal.dll
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/obj/Debug/net6.0/HomeworkFinal.pdb
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/obj/Debug/net6.0/HomeworkFinal.genruntimeconfig.cache
+/Users/yeabildin/Desktop/Examples/HomeworkFinal/obj/Debug/net6.0/ref/HomeworkFinal.dll
